@@ -1,5 +1,8 @@
 # WEEK2
 week 2 of PWL lesson
+Nama  : Muhammad Fatahillah Athabrani
+NIM   : 244107020121
+Kelas : TI2F
 
 
 # PRAKTIKUM 1 
